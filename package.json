@@ -1,0 +1,28 @@
+{
+  "name": "three.meshline.module",
+  "version": "1.0.0",
+  "description": "THREE MeshLine as Module (ES2022)",
+  "type": "module",
+  "main": "src/THREE.MeshLine.Module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filran/THREE.MeshLine.Module.git"
+  },
+  "keywords": [
+    "three.js",
+    "meshline",
+    "module"
+  ],
+  "author": "Filipe Arantes mailto:filran@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filran/THREE.MeshLine.Module/issues"
+  },
+  "homepage": "https://github.com/filran/THREE.MeshLine.Module#readme",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
+}
